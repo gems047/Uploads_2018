@@ -1,0 +1,33 @@
+10.1 - Python Code
+
+https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+https://stackoverflow.com/questions/37726858/2d-pca-line-fitting-with-numpy
+
+GOOD PCA Resources and Code:
+https://stackoverflow.com/questions/47370795/pca-on-sklearn-how-to-interpret-pca-components?rq=1
+
+10.2
+
+PCA vs least squares:
+https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579
+
+Plot figures:
+https://stats.stackexchange.com/questions/22329/how-does-centering-the-data-get-rid-of-the-intercept-in-regression-and-pca
+
+10.3
+
+https://stats.stackexchange.com/questions/144439/applying-pca-to-test-data-for-classification-purposes
+
+https://stackoverflow.com/questions/20256736/how-do-i-use-principal-component-analysis-in-supervised-machine-learning-classif
+
+
+
+Lectures for PCA:
+
+https://www.youtube.com/watch?v=hkCT-6KJAK0 --IITKGP
+https://www.youtube.com/watch?v=WW3ZJHPwvyg - MIT
+https://www.youtube.com/watch?v=a1ZCeFpeW0o
+https://www.youtube.com/watch?v=ey2PE5xi9-A  ---Andrew
